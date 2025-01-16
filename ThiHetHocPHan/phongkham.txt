@@ -1,0 +1,4 @@
+BenhVien [mabenhVien=1, tenbenhVien=2, getMabenhVien()=1, getTenbenhVien()=2, getClass()=class HetHocPhan.PhongKham, hashCode()=159413332, toString()=HetHocPhan.PhongKham@9807454]
+Tên phòng khám: 2
+Giá: 4.0
+Phân loại phòng khám: PhanLoai [soLuong=1, loaiPhong=true, getSoLuong()=1, isLoaiPhong()=true, getClass()=class HetHocPhan.PhanLoai, hashCode()=1066516207, toString()=HetHocPhan.PhanLoai@3f91beef]
